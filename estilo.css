@@ -1,0 +1,201 @@
+.body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    background: #53C1D8;
+    background: -webkit-linear-gradient(top left, #53C1D8, #1053A8);
+    background: -moz-linear-gradient(top left, #53C1D8, #1053A8);
+    background: linear-gradient(to bottom right, #53C1D8, #1053A8);
+    height:100%;
+}
+
+
+
+
+
+#wrapper{
+    height:10%;
+    width:100%;
+    display:table;
+    overflow:hidden;
+}
+#contenedor{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+#contenedorindex{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    width: 1080px;
+}
+
+#contenido{
+    display:inline-block;
+    margin:0 auto;
+}
+
+.contenido2 {
+    width: 1080px;
+    background-color: white;
+    text-align: left;
+    padding: 20px 20px 20px 40px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.contenido3 {
+
+    background-color: white;
+    text-align: left;
+    padding: 20px 20px 20px 40px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+
+.menu {
+    padding: 20px;
+}
+
+.titulo {
+    background-color: white;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.titulo2 {
+    background-color: white;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.button {
+    font-size: 18px;
+    padding: 15px 40px 15px 40px;
+    border: none;
+    color: #5e5e5e;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.button:hover {
+    background-color: #afafaf;
+}
+
+.subbutton {
+    font-size: 18px;
+    padding: 15px 15px 15px 15px;
+    border: none;
+    color: #5e5e5e;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    margin: 5px;
+
+}
+.subbutton:hover {
+    color: #5e5e5e;
+    background-color: #c9c9c9;
+}
+
+#active {
+    color: white;
+    background-color: #234d8c;
+}
+
+#subactive {
+    color: white;
+    background-color: #234d8c;
+}
+
+input {
+    width: 250px;
+    font-size: 14px;
+    padding: 10px;
+    margin: 5px 50px 10px 5px;
+    background-color: #e5e5e5;
+    border-radius: 2px;
+    border: 0px;
+}
+
+select {
+    width: 250px;
+    font-size: 14px;
+    padding: 10px;
+    margin: 5px 50px 10px 5px;
+    background-color: #e5e5e5;
+    border-radius: 2px;
+    border: 0px;
+}
+
+.form {
+    padding: 15px;
+    display: block;
+    width: 800px;
+}
+label{
+    display: inline-block;
+    width: 80px;
+}
+
+.submit {
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 15px 15px 15px;
+    border: none;
+    color: #5e5e5e;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.submit:hover {
+    color: #5e5e5e;
+    background-color: #c9c9c9;
+}
+
+.enviar {
+    text-align: center;
+}
+
+.mensaje {
+    color: #4CAF50;
+}
+
+h1 {
+    color: #5f7fbd;
+}
+
+h2 {
+    color: #5f7fbd;
+}
+
+.table {
+    border: 1px;
+    border-color: #e5e5e5;
+    margin-bottom: 20px;
+}
+
+th {
+    text-align: center;
+    color: #5e5e5e;
+    background-color: #dedede;
+    padding: 10px 25px 10px 25px;
+}
+
+td {
+    text-align: center;
+    color: #5e5e5e;
+    background-color: #f6f6f6;
+    padding: 10px 25px 10px 25px;
+}
+
+.table2 td {
+    text-size:12px;
+}
